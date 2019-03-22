@@ -1,7 +1,7 @@
 The folder contains the 
 
-- sample simple .pdf plan for the Borg Oberndorf building
-- The intermediate OSM models
-- the derived 3D Geodatase intermediate model
-- the ESRI ArcGIS indoor model
-- the City GML
+- [01] sample simple .png/.pdf plan for the Borg Oberndorf building
+- [02] the intermediate OSM models
+- [03] the 3D Geodatase intermediate model
+- [04] the derived ESRI ArcGIS indoor model
+- [05] the derived OGCCity GML
